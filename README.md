@@ -1,82 +1,44 @@
-<div align="center">
-  
-# $ whoami
+# 👋 Hello, World!  
 
-```ascii
- _____________________________________
-< Code is poetry, bugs are modern art >
- -------------------------------------
-\   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/github/followers/dantealegria1?label=Follow&style=social)](https://github.com/dantealegria1)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-red?style=social&logo=instagram)](https://instagram.com/dante_alegria)
+
+I'm a passionate developer who loves turning ideas into code. When I'm not pushing commits, you can find me exploring new technologies and contributing to open source.
+
+## 🚀 What I'm Up To
+
+- 🔍 Exploring DevOps and CI/CD pipelines
+- 📚 Learning more about Cloud Architecture and Kubernetes
+- 👯 Looking to collaborate on interesting open source projects
+- 💬 Ask me about Software Development, cloud architecture, or Linux OS
+
+## 🛠️ Tech Stack
+
+```text
+Frontend     →  React, JS, CSS
+Backend      →  Node.js, Python, Mysql, C#
+Cloud        →  Azure, Docker, Kubernetes
+Tools        →  Git, Neovim
 ```
 
-</div>
+## 📈 GitHub Stats
 
-## `~/about.txt`
-```bash
-$ cat about.txt
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantealegria1&layout=compact&hide=HTML,CSS,Jupyter%20Notebook)
 
-💻 Full-stack developer by day, code explorer by night
-🎮 Turning coffee into code since 2015
-🌱 Constantly learning, occasionally succeeding
-🎯 Mission: Write code that humans can read
-```
 
-## `~/skills.sh`
-```bash
-$ ./skills.sh
+## 🏆 Recent Activity
 
-Loading primary skillset...
-██████████████████████████████ 100%
+- 🎉 Deployed ![Quiet VIbez](https://github.com/dantealegria1/Quiet-Vibez)
+- 📝 Working on a RegEx learning tool
+- 🎯 Share my ![Arch Ricing](https://github.com/dantealegria1/.config)
 
-LANGUAGES       → Python | JavaScript | Go
-FRAMEWORKS      → React | Django | Express
-INFRASTRUCTURE → Docker | AWS | Terraform
-DATABASE       → PostgreSQL | MongoDB | Redis
-```
+## 📫 Let's Connect!
 
-## `~/projects.log`
-```bash
-$ tail -n 3 projects.log
+Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
 
-[LATEST] → Project Mercury: A real-time data visualization tool
-[ACTIVE] → Project Venus: Contributing to open-source community
-[NEXT]   → Project Mars: Something mysterious brewing...
-```
-
-## `~/stats.sh`
-```bash
-$ ./fetch-github-stats
-
-⚡ Total Commits: 1,337
-🎯 Pull Requests: 42
-⭐ Stars Earned: 100
-🐛 Bugs Squashed: ∞
-```
-
-## `~/contact.json`
-```json
-{
-  "email": "hello@yourdomain.com",
-  "web": "https://yourwebsite.com",
-  "social": {
-    "github": "yourusername",
-    "twitter": "@yourusername",
-    "linkedin": "in/yourusername"
-  },
-  "status": "Open to interesting conversations!"
-}
-```
-
-<div align="center">
-
+- 📧 Email: dante.romero18@gmail.com
 ---
-  
-*"Any sufficiently advanced bug is indistinguishable from a feature"*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
-
-</div>
+⭐️ From [dantealegria1](https://github.com/dantealegria1)
