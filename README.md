@@ -12,7 +12,7 @@ I'm a passionate developer who loves turning ideas into code. When I'm not pushi
 - 🔍 Exploring DevOps and CI/CD pipelines
 - 📚 Learning more about Cloud Architecture and Kubernetes
 - 👯 Looking to collaborate on interesting open source projects
-- 💬 Ask me about Software Development, cloud architecture, or Linux OS
+- 💬 Ask me about Software Development, cloud architecture or Linux OS
 
 ## 🛠️ Tech Stack
 
