@@ -19,7 +19,7 @@ I'm a passionate developer who loves turning ideas into code. When I'm not pushi
 ```text
 Frontend     →  React, JS, CSS
 Backend      →  ASP.NET, Django, Mysql
-Languages    →  Python, C#, Java, Bash
+Languages    →  Python, C#, Java, Bash, C++
 Cloud        →  Azure, Docker, Kubernetes
 Tools        →  Git, Neovim
 CI/CD        →  GitHub Action
