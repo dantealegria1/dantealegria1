@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/github/followers/dantealegria1?label=Follow&style=social)](https://github.com/dantealegria1)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-red?style=social&logo=instagram)](https://instagram.com/dante_alegria)
 
-I'm a passionate developer who loves turning ideas into code. When I'm not pushing commits, you can find me exploring new technologies and contributing to open source.
+I'm a passionate developer who loves turning ideas into code. When I'm not pushing commits, you can find me exploring new technologies or ricing my setup.
 
 ## 🚀 What I'm Up To
 
