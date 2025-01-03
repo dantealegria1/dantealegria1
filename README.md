@@ -32,9 +32,9 @@ CI/CD        →  GitHub Action
 
 ## 🏆 Recent Activity
 
-- 🎉 Deployed ![Quiet VIbez](https://github.com/dantealegria1/Quiet-Vibez)
-- 📝 Working on a RegEx learning tool
-- 🎯 Share my ![Arch Ricing](https://github.com/dantealegria1/.config)
+- 🎉 Deployed ![Quiet Vibez](https://github.com/dantealegria1/Quiet-Vibez)
+- 📝 Deployed ![Rgex Playground](https://github.com/dantealegria1/RegEx-Playground)
+- 🎯 Shared my ![Arch Ricing](https://github.com/dantealegria1/.config)
 
 ## 📫 Let's Connect!
 
