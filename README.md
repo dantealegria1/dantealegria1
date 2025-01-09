@@ -35,6 +35,7 @@ CI/CD        →  GitHub Action
 - 🎉 Deployed ![Quiet Vibez](https://github.com/dantealegria1/Quiet-Vibez)
 - 📝 Deployed ![Rgex Playground](https://github.com/dantealegria1/RegEx-Playground)
 - 🎯 Shared my ![Arch Ricing](https://github.com/dantealegria1/.config)
+- Created a  ![Twitter Bot](https://github.com/dantealegria1/Twitter-Bot)
 
 ## 📫 Let's Connect!
 
